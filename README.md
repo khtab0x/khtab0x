@@ -13,8 +13,12 @@ I'm a Web Developer and Student passionate about crafting minimalist, high-resol
 * ⚙️ **Steam Hourbooster:** A 24/7 automated Node.js script integrated with a Telegram bot for headless remote management.
 
 ### 📈 GitHub Stats
-![Khtab's GitHub stats](https://github-readme-stats.vercel.app/api?username=khtab0x&show_icons=true&theme=radium)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khtab0x&layout=compact&theme=radium)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khtab0x&show_icons=true&theme=radium" alt="Khtab's GitHub stats" />
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khtab0x&layout=compact&theme=radium" alt="Top Langs" />
+</div>
 
 ---
 *Always experimenting. Always building.*
