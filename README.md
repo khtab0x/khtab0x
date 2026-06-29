@@ -14,10 +14,7 @@ I'm a Web Developer and Student passionate about crafting minimalist, high-resol
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khtab0x&show_icons=true&theme=radium" alt="Khtab's GitHub stats" />
-  <br />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khtab0x&layout=compact&theme=radium" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com/?user=khtab0x&theme=radium&hide_border=true" alt="Khtab's GitHub Streak" />
 </div>
 
 ---
