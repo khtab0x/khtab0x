@@ -65,7 +65,7 @@ An interactive Telegram Mini-App featuring a Roulette wheel reward system.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khtab0x&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Khtab's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khtab0x&show_icons=true&theme=tokyonight&hide_border=true& alt="Khtab's GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khtab0x&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
