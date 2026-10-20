@@ -1,4 +1,4 @@
-# [Khtab]
+# Khtab
 
 ### Full-Stack Developer & Automation Engineer
 
