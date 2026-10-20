@@ -24,7 +24,7 @@ I am a Full-Stack Developer and Software Engineer focused on building scalable w
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khtab0x&theme=radical&hide_border=true" alt="Contribution Streak" width="860" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khtab0x&theme=radical&hide_border=true" alt="Contribution Streak" width="700" />
 </p>
 
 ## Contact / Connect
