@@ -1,79 +1,88 @@
-# Hi, I'm [Khtab] 👋
+<div align="center">
+  <h1>Hi, I'm Khtab 👋</h1>
+  <h3>Independent Full-Stack Developer & Bot Architect</h3>
+  <p>Building seamless web experiences, reverse-engineering APIs, and automating everything in between.</p>
+</div>
 
-[Short, catchy tagline about who you are and what you do.]
+---
 
-- 🔭 I’m currently working on: [your current focus/project]
-- 🌱 I’m learning: [technology or skill]
-- 👯 I’m looking to collaborate on: [type of projects]
-- 🤔 I’m looking for help with: [specific challenge]
-- 💬 Ask me about: [topics you like]
-- 📫 How to reach me: [email or contact link]
-- 😄 Fun fact: [something memorable]
+- 🔭 **I’m currently working on:** Building independent web projects and advanced Telegram bots.
+- 🌱 **I’m learning:** Advanced network proxy methods and API analysis with Ghidra.
+- 👯 **I’m looking to collaborate on:** Innovative web applications, streaming interfaces, and automated services.
+- 🤔 **I’m looking for help with:** Scaling reverse-engineered middleware proxies.
+- 💬 **Ask me about:** React, Python, Telegram Bot development, and Reverse Engineering.
+- 📫 **How to reach me:** [khtaba807@gmail.com](mailto:khtaba807@gmail.com)
+- 😄 **Fun fact:** I built a custom streaming interface consuming Shabakat Cinemana APIs with my own subtitle proxy handling!
 
-## About Me
+## 👨‍💻 About Me
 
-I’m a [profession, e.g. software engineer / developer / designer / data enthusiast] passionate about building meaningful digital experiences and solving real-world problems with code.
+I am a dedicated software developer passionate about building meaningful digital experiences and generating independent value through code. I recently transitioned to full-time independent development to focus on what I do best: creating robust full-stack web applications and complex automated tools.
 
-I enjoy working across [frontend/backend/full-stack/cloud/data/etc.] and turning ideas into products that are useful, scalable, and user-friendly.
+I enjoy working across both frontend and backend architectures, specializing in custom HTML5 video players, Telegram Mini-Apps, and media downloading bots. I'm always exploring new ways to bypass restrictions and optimize API integrations.
 
-## Skills & Tools
+## 🛠️ Skills & Tools
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Tools
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-## Featured Projects
+### Tools, Platforms & Automation
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-E44D26?style=for-the-badge&logo=fire&logoColor=white)
 
-### [Project Name 1]
-A short description of what the project does, the problem it solves, and the tech used.
+## 🚀 Featured Projects
 
-- Tech: [React, Node.js, Firebase]
-- Link: [GitHub repo or live demo]
+### 📥 O6zbot (Media Downloader)
+A powerful Telegram bot designed to download media from various platforms including Twitter/X, TikTok, Instagram, and Facebook.
+- **Tech:** Python, yt-dlp, Render
+- **Highlights:** Robust media processing and deployment with automated uptime monitoring.
 
-### [Project Name 2]
-Another concise description of a standout project.
+### 🕳️ The Void (العَدَم)
+A modern web application featuring a stunning glassmorphism design, countdown timer, and an administrative submission portal.
+- **Tech:** React, Tailwind CSS, Telegram Bot API
+- **Highlights:** Integrated with a Telegram bot ("حراس العَدَم") for mandatory channel subscription enforcement.
 
-- Tech: [Python, FastAPI, PostgreSQL]
-- Link: [GitHub repo or live demo]
+### 🎬 Custom Streaming Interface
+A fully customized web-based film and TV series streaming platform.
+- **Tech:** React, HTML5 Video, REST APIs
+- **Highlights:** Consumes Shabakat Cinemana APIs with advanced custom subtitle proxy handling.
 
-### [Project Name 3]
-Highlight a portfolio, tool, or product you’re proud of.
+### 🎡 Telegram Mini-App (Roulette)
+An interactive Telegram Mini-App featuring a Roulette wheel reward system.
+- **Tech:** React, Vite
+- **Highlights:** Seamlessly integrates custom UI elements and Telegram Stars payment integration.
 
-- Tech: [TypeScript, Next.js, Tailwind CSS]
-- Link: [GitHub repo or live demo]
+## 📊 GitHub Stats
 
-## GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khtab0x&show_icons=true&theme=tokyonight&hide_border=true" alt="Khtab's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khtab0x&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=khtab0x&show_icons=true&theme=radical)
+## 🎯 Current Focus
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khtab0x&layout=compact&theme=radical)
+- **Building:** Independent software solutions and monetizable web services.
+- **Exploring:** Reverse engineering and bypassing ISP network locks.
+- **Automating:** Advanced server scripts for tasks ranging from Steam gaming hours tracking to group moderation.
 
-## Current Focus
+## 🌐 Connect With Me
 
-- Building: [current project or skill area]
-- Exploring: [new technologies or concepts]
-- Learning: [course, certification, or deep-dive topic]
-
-## Connect With Me
-
--  Portfolio: [soon!]
--  LinkedIn: [your profile]
--  Twitter/X: https://x.com/ffvvp
--  Email: khtaba807@gmail.com
--  WhatsApp: +9647707546093
+- 🕳️ **Portfolio:** [Coming Soon!]
+- 🐦 **Twitter/X:** [@ffvvp](https://x.com/ffvvp)
+- 📧 **Email:** [khtaba807@gmail.com](mailto:khtaba807@gmail.com)
+- 💬 **WhatsApp:** [+9647707546093](https://wa.me/9647707546093)
 
 ---
 
-> “Code is not just about building software — it’s about solving problems and creating value.”
-
-If you want, I can turn this into a more personalized version based on your actual profession, stack, and interests.
+> *"Code is not just about building software — it’s about solving problems and creating value."*
