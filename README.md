@@ -32,4 +32,4 @@ I am a Full-Stack Developer and Software Engineer focused on building scalable w
 | Platform | Link |
 | --- | --- |
 | LinkedIn | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) |
-| Email | [![Eamil](https://img.shields.io/badge/Email-khtaba807@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](khtaba807@gmail.com) |
+| Email | [![Eamil](https://img.shields.io/badge/Email-khtaba807@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
