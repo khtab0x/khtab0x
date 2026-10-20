@@ -66,11 +66,11 @@ Highlight a portfolio, tool, or product you’re proud of.
 
 ## Connect With Me
 
-- 🌐 Portfolio: [soon!]
-- 💼 LinkedIn: [your profile]
-- 🐦 Twitter/X: [https://x.com/ffvvp]
-- 📧 Email: [your email]
-- 🧑‍💻 GitHub: [your profile URL]
+-  Portfolio: [soon!]
+-  LinkedIn: [your profile]
+-  Twitter/X: https://x.com/ffvvp
+-  Email: khtaba807@gmail.com
+-  WhatsApp: +9647707546093
 
 ---
 
