@@ -20,10 +20,10 @@ My expertise spans the full development lifecycle, from responsive React front e
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | React, Vite, Tailwind CSS |
+| **Frontend** | React, Vite, Tailwind CSS, JavaScript, TypeScript  |
 | **Backend** | Python, Flask, Firebase |
 | **Automation** | Advanced Telegram Bots, Web Automation, API Integration |
-| **Tools and Disciplines** | Reverse Engineering (Ghidra), Media Streaming Interfaces, Subtitle Processing |
+| **Tools and Disciplines** | Reverse Engineering, APIs Reverse Engineering, Media Streaming Interfaces (Soon on my Github), Subtitle Processing |
 
 ### Specialized Capabilities
 
