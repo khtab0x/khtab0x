@@ -20,10 +20,11 @@ My expertise spans the full development lifecycle, from responsive React front e
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | React, Vite, Tailwind CSS, JavaScript, TypeScript  |
-| **Backend** | Python, Flask, Firebase |
+| **Frontend** | React, Vite, Tailwind CSS, HTML5 and CSS3 (custom video player interfaces) |
+| **Backend** | Python, Flask, Node.js, Firebase, SQL (PostgreSQL / MySQL) |
+| **Infrastructure and Hosting** | Render, UptimeRobot, Linux / Bash Scripting |
 | **Automation** | Advanced Telegram Bots, Web Automation, API Integration |
-| **Tools and Disciplines** | Reverse Engineering, APIs Reverse Engineering, Media Streaming Interfaces (Soon on my Github), Subtitle Processing |
+| **Tools and Disciplines** | Reverse Engineering (Ghidra, C/C++, Assembly), Media Processing (yt-dlp), Media Streaming Interfaces, Subtitle Processing |
 
 ### Specialized Capabilities
 
@@ -31,9 +32,10 @@ My expertise spans the full development lifecycle, from responsive React front e
 | :--- | :--- |
 | **Telegram Bot Development** | Design and deployment of feature-rich, production-ready bots with robust command handling and third-party integrations. |
 | **API Integration** | Connecting external services into cohesive, reliable workflows and applications. |
-| **Media Streaming Interfaces** | Custom video player interfaces with integrated subtitle processing. |
+| **Media Streaming Interfaces** | Custom video players built with HTML5 and CSS3, with integrated subtitle processing and yt-dlp-based media handling. |
 | **Web Automation** | Automated pipelines that reduce manual effort and improve operational efficiency. |
-| **Reverse Engineering** | Binary analysis and software investigation using Ghidra to understand and rebuild complex systems. |
+| **Deployment and Reliability** | Hosting on Render with uptime monitoring through UptimeRobot, supported by Linux and Bash scripting for operational tasks. |
+| **Reverse Engineering** | Binary analysis and software investigation using Ghidra, with working knowledge of C/C++ and Assembly to understand and rebuild complex systems. |
 
 ---
 
