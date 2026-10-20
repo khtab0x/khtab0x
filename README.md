@@ -54,9 +54,9 @@ Highlight a portfolio, tool, or product you’re proud of.
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[khtab0x]&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=khtab0x&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[khtab0x]&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khtab0x&layout=compact&theme=radical)
 
 ## Current Focus
 
