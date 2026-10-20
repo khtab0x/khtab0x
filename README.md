@@ -19,8 +19,8 @@ I am a Full-Stack Developer and Software Engineer focused on building scalable w
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khtaba0x&show_icons=true&theme=radical&hide_border=true" alt="Overall Stats" width="430" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khtaba0x&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="365" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khtab0x&show_icons=true&theme=radical&hide_border=true" alt="Overall Stats" width="430" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khtab0x&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="365" />
 </p>
 
 <p align="center">
