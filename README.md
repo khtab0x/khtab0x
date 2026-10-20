@@ -1,70 +1,35 @@
-<div align="center">
-  <h1>Khtab</h1>
-  <h3>Independent Software Engineer & Systems Architect</h3>
-  <p>Specializing in full-stack development, API reverse engineering, and automated services.</p>
-</div>
+# Full-Stack Developer & Software Engineer.
 
----
+[![Full-Stack Developer](https://img.shields.io/badge/Full--Stack-Developer-0A0F1A?style=for-the-badge)](#) [![Software Engineer](https://img.shields.io/badge/Software-Engineer-121826?style=for-the-badge)](#)
+
+> Building reliable systems, scalable web applications, and efficient automation with a focus on quality, independence, and long-term maintainability.
 
 ## About Me
 
-I am an independent software developer focused on architecting scalable web applications and complex automation tools. My expertise lies in bridging the gap between frontend interfaces and backend infrastructure, with a strong emphasis on network proxy methods, API analysis, and custom streaming solutions.
+I am a Full-Stack Developer and Software Engineer focused on building scalable web applications, automated systems, API integrations, and custom streaming interfaces. My work centers on delivering practical, high-performance solutions that are resilient, maintainable, and tailored to real-world use cases. I am also deeply interested in reverse engineering and developing independent software that solves complex problems with clarity and precision.
 
-## Technical Skills
+## Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+| Category | Technologies |
+| --- | --- |
+| Frontend | React, Vite, Tailwind CSS, HTML5 |
+| Backend & Automation | Python, Flask, Firebase |
+| Tools & Concepts | API Reverse Engineering, yt-dlp, Automation Scripts |
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
+## GitHub Activity
 
-### Infrastructure & Tools
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-E44D26?style=for-the-badge&logo=fire&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![UptimeRobot](https://img.shields.io/badge/UptimeRobot-10B981?style=for-the-badge&logo=uptimerobot&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khtab0x&show_icons=true&theme=radical&hide_border=true" alt="Overall Stats" width="430" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khtab0x&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="365" />
+</p>
 
-## Featured Projects
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khtab0x&theme=radical&hide_border=true" alt="Contribution Streak" width="860" />
+</p>
 
-### O6zbot - Private, not for all users
-An automated service architecture designed for processing and downloading media from various social platforms with built-in uptime monitoring.
-- Tech Stack: Python, yt-dlp, Render
+## Contact / Connect
 
-### The Void - Private, not for all users
-A comprehensive web application featuring a modern glassmorphism interface, administrative portal, and integrated subscription verification middleware.
-- Tech Stack: React, Tailwind CSS, Telegram API
-
-### Custom Streaming Platform - Private, not for all users
-An advanced streaming interface that consumes reverse-engineered APIs, featuring a custom HTML5 video player and proprietary subtitle proxy handling.
-- Tech Stack: React, REST APIs, Proxy Middleware
-
-### Digital Reward Interface - Private, not for all users
-An interactive application built for specialized platforms, featuring secure digital payment integration and automated reward distribution.
-- Tech Stack: React, Vite, Payment Gateway APIs
-
-## GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khtab0x&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khtab0x&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-## Contact Information
-
-- Twitter / X: [@ffvvp](https://x.com/ffvvp)
-- Email: [khtaba807@gmail.com](mailto:khtaba807@gmail.com)
-- WhatsApp: [+9647707546093](https://wa.me/9647707546093)
+| Platform | Link |
+| --- | --- |
+| LinkedIn | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) |
+| Email | [khtaba807@gmail.com](https://img.shields.io/badge/Email-your.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) |
