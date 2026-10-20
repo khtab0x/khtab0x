@@ -66,9 +66,9 @@ Highlight a portfolio, tool, or product you’re proud of.
 
 ## Connect With Me
 
-- 🌐 Portfolio: [your site]
+- 🌐 Portfolio: [soon!]
 - 💼 LinkedIn: [your profile]
-- 🐦 Twitter/X: [your handle]
+- 🐦 Twitter/X: [https://x.com/ffvvp]
 - 📧 Email: [your email]
 - 🧑‍💻 GitHub: [your profile URL]
 
